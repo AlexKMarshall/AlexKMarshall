@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Alex, a front-end developer from London.
+## Hi there 👋, I'm Alex, a front-end developer from London
 
 I'm an instructor 👨‍🏫 [@Codeworks](https://github.com/codeworks) and mentor 🦸‍♂️ [@codebar.io](http://codebar.io/). In a former life I was product manager and customer advocate, so I'm especially passionate about awesome functional, accessible and well-tested UIs.
 
