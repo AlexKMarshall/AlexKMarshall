@@ -9,7 +9,7 @@ Outside of programming I'm a choral singer, love rock climbing, and proud of my 
 ### What's I'm doing now
 
 - 🔭 I’m currently working on a [Spotify clone](https://github.com/AlexKMarshall/spotify-clone) using React and Typescript, focusing on test coverage and clean code structure,
-- 🌱 I’m currently learning Advanced React Patterns from [@kentcdodds](https://github.com/kentcdodds), and super excited to start [EpicReact.dev](https://epicreact.dev)
+- 🌱 I’m currently learning [EpicReact.dev](https://epicreact.dev) from [@kentcdodds](https://github.com/kentcdodds)
 - 💬 Ask me about testing React apps
 - 😄 Pronouns: he/him/his
 
