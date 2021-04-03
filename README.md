@@ -6,7 +6,7 @@ Outside of programming I'm a choral singer, love rock climbing, and proud of my 
 
 <img align="right" alt="illustration of web developer with laptop" src="./assets/undraw_web_developer_p3e5.svg" width="500" height="340" />
 
-### What's I'm doing now
+### What I'm doing now
 
 - 🔭 I’m currently working on a [Spotify clone](https://github.com/AlexKMarshall/spotify-clone) using React and Typescript, focusing on test coverage and clean code structure,
 - 🌱 I’m currently learning [EpicReact.dev](https://epicreact.dev) from [@kentcdodds](https://github.com/kentcdodds)
