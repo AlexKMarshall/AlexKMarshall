@@ -8,7 +8,7 @@ Outside of programming I'm a choral singer, love rock climbing, and proud of my 
 
 ### What I'm doing now
 
-- 🔭 I’m currently working on an [Invoicing App](https://github.com/AlexKMarshall/invoice-clone) using React, Next.js and Typescript, focussing on TDD, performance and accessibility
+- 🔭 I’m currently working on an [Invoicing App](https://github.com/AlexKMarshall/invoice-app) using React, Next.js and Typescript, focussing on TDD, performance and accessibility
 - 🌱 I’m currently learning [EpicReact.dev](https://epicreact.dev) from [@kentcdodds](https://github.com/kentcdodds)
 - 💬 Ask me about testing React apps
 - 😄 Pronouns: he/him/his
